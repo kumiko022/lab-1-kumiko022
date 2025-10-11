@@ -9,4 +9,4 @@
 
 ## ✅ Resultado
 
-<img width="942" height="159" alt="Image" src="https://github.com/user-attachments/assets/e66bc846-6a42-43ec-affd-8c0c285b8ee3" />
+<img width="667" height="72" alt="Image" src="https://github.com/user-attachments/assets/1bb5b776-f04f-40ee-99c6-cfcfc88d310a" />

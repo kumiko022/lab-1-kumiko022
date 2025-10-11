@@ -1,12 +1,23 @@
-# Ejercicio de laboratorio 1 - Apertura, compilación y ejecución de su primer programa
+# Laboratorio 1. Metodología de la programación con C++
 
-## 🛠️ Instrucciones
+## 👤 Información del alumno
 
-1. Inicie el editor de código de su preferencia (ej. VS Code) y configurelo para escribir y compilar código en C++.
-2. Escriba un programa que imprima su nombre en el archivo llamado lab1ejerc1.cpp.
-3. Compila el programa.
-4. Ejecuta el programa y añade el resultado en el apartado de \\**Resultado\\**
+- Nombre:
+- Matrícula:
+- Fecha:
 
-## ✅ Resultado
+## 🎯 Objetivos
 
+- Familiarizarse con el proceso de inicio de sesión y el entorno C++ utilizado en el laboratorio.
+- Comprender los conceptos básicos del diseño de programas y el desarrollo de algoritmos.
+- Aprender, reconocer y corregir los tres tipos de errores informáticos: errores de sintaxis, errores de tiempo de ejecución y errores lógicos.
+- Aprender los conceptos básicos de un editor y compilador y ser capaz de compilar y ejecutar programas existentes. - Para ingresar código y ejecutar un programa simple desde cero
 
+## ¡Recuerda
+
+```cmd
+git add -A
+git commit -m <descripcion-del-commit>
+
+git push origin <rama>
+```

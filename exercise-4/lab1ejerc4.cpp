@@ -21,8 +21,9 @@ int main() {
        << "Los números son " << firstNumber << " y " << secondNumber << endl;
 
   // Ahora intercambiaremos los valores.
-  firstNumber = secondNumber;
-  secondNumber = firstNumber;
+ float tempt = firstNumber;
+ firstNumber = secondNumber;
+ secondNumber = tempt;
 
   // Salida de los valores después del intercambio.
   cout << "Ahora, los números son " << firstNumber << " y " << secondNumber

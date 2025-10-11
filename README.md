@@ -9,4 +9,4 @@
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+<img width="679" height="62" alt="Image" src="https://github.com/user-attachments/assets/8bfc1849-682c-4b26-8059-87ec578797ac" />

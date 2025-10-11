@@ -8,6 +8,7 @@
 4. Intenta ejecutarlo con diferentes números. Graba tu salida. \\**¿Sientes que estás obteniendo resultados válidos?**\\
 
 ## ✅ Resultado
+
+Código corregido:
 <img width="709" height="404" alt="Image" src="https://github.com/user-attachments/assets/477ca1c2-a5bd-40d9-bf42-050783d275dd" />
 
-<img width="679" height="62" alt="Image" src="https://github.com/user-attachments/assets/8bfc1849-682c-4b26-8059-87ec578797ac" />

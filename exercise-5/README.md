@@ -8,4 +8,8 @@
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+<img width="907" height="452" alt="Image" src="https://github.com/user-attachments/assets/71e203e0-3377-4c59-80e6-bc44e703be2f" />
+
+<img width="697" height="91" alt="Image" src="https://github.com/user-attachments/assets/b96e56a8-762f-4b1f-8b85-af93e0f7e224" />
+
+<img width="727" height="92" alt="Image" src="https://github.com/user-attachments/assets/af5da69f-be55-4596-b0d8-d772e3a28a02" />
